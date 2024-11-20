@@ -1,6 +1,8 @@
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/azizarrahmanmiju/Images/main/cover.jpg" alt="Cover Image">
+  <h1> Chat GPT Know me Like this</h1>
+  <img src="https://raw.githubusercontent.com/azizarrahmanmiju/Images/main/me.webp" alt="Cover Image">
   <img src="https://raw.githubusercontent.com/azizarrahmanmiju/Images/main/cover2.png" alt="Cover Image">
 </div>
 
